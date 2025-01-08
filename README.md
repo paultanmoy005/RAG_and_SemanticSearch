@@ -6,9 +6,9 @@ Here we will build a semantic search engine over a PDF document. This will allow
 The RAG notebook implements a RAG pipeline in Python using an OpenAI LLM in combination with a Weaviate vector database and an OpenAI embedding model. LangChain is used for orchestration.
 
 For Semantic Search:
-pip install langchain-community pypdf
-pip install -qU langchain-openai
-pip install -qU langchain-core
+- pip install langchain-community pypdf
+- pip install -qU langchain-openai
+- pip install -qU langchain-core
 
 For RAG:
 pip install langchain openai weaviate-client
