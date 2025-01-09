@@ -1,5 +1,6 @@
 # RAG_and_SemanticSearch
 Both RAG (Retrieval-Augmented Generation) and Semantic Search are modern AI techniques that utilize embeddings and vector search, but they are designed for different purposes and operate in distinct ways.
+
 Key Difference: Semantic search focuses on retrieving relevant documents, while RAG combines retrieval with language generation to produce coherent, context-aware responses. Semantic search is ideal for fast and direct retrieval, whereas RAG excels in scenarios requiring natural language interaction.
 
 Here we will build a semantic search engine over a PDF document. This will allow us to retrieve passages in the PDF that are similar to an input query.
